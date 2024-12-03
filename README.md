@@ -16,6 +16,7 @@ Age-Prediction-on-Human-Faces/
 ├── README.md
 ├── predict.py
 ├── requirements.txt
+├── SMAI Assignment 4.pdf    
 │
 ├── results/
 │   └── BestResults-ConvNeXT_Small.csv
