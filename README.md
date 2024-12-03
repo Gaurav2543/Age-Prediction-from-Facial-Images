@@ -94,8 +94,6 @@ This implementation achieved significant success:
 - Detailed results available in: `results/BestResults-ConvNeXT_Small.csv`
 
 ## Acknowledgements
-
-- Technologies used:
-  - PyTorch library
-  - Pretrained models from torchvision
-  - Weights & Biases (wandb) for experiment tracking and visualization
+- PyTorch library
+- Pretrained models from torchvision
+- Weights & Biases (wandb) for experiment tracking and visualization
